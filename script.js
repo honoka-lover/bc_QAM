@@ -7204,6 +7204,18 @@ honokaMoans = {
 M_MOANER_addMoansProfile("honoka", honokaMoans);
 
 
+//惠乃专用
+kosakaMoans = {
+    "hot": ["快停下nya！", "呜♥嗯~", "呼~呼~", "要忍不住了nya！"],
+    "medium": ["慢点喂！", "呜！", "嗯~"],
+    "light": ["呜nya！", "不要啦nya！", "快、快停下nya！"],
+    "low": ["喂！", "关掉nya！", "不要打开玩具nya！"],
+    "orgasm": ["嗷呜！", "不，不要了nya♥", "这样会坏掉的nya！"],
+    "pain": ["痛nya！", "轻点nya！", "再打咬你nya！",  "坏蛋nya！", "不要打那里nya！"]
+}
+M_MOANER_addMoansProfile("kosaka", kosakaMoans);
+
+
 //狐狸专用
 foxMoans = {
     "hot": ["嗷呜~", "嗯~~嗯", "好想要", "请让狐狐去吧"],
